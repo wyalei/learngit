@@ -9,3 +9,6 @@ Creating a new branch is quick22222222222222222.
 Creating a new branch is quick and simple.
 add a merge
 Git is a free software ...
+test stash
+test push dev branch
+
