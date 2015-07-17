@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 2222222
 333333333333333333333
 6666666666666666666
+Creating a new branch is quick.
